@@ -1,1 +1,101 @@
 <dictionary xmlns="http://marklogic.com/xdmp/spell">
+  <metadata>
+    <package-name>Spelling Correction Dictionary - Medium</package-name>
+    <date>August 17. 2004</date>
+    <version>1.0</version>
+    <authors>
+      <author>Mark Logic</author>
+    </authors>
+    <description>
+      This dictionary is based on the SCOWL (Spelling Correction
+      Oriented Word List) made available by Kevin Atkinson. Version 5
+      dated January 3, 2003 was used. It combines Kevin Atkinson's word
+      lists size 10, size 20, size 35, size 40 and size 50. Mark Logic
+      added XML tags to the combined word list to conform to the schema
+      used in the system.
+    </description>
+    <copyright>
+      This dictionary is provided at no cost by Mark Logic
+      Corporation, subject to the enclosed restrictions. Mark Logic
+      Corporation disclaims any liability resulting directly or indirectly
+      from any access or use, whether proper or improper, of (a) the
+      information contained in this document or (b) functionality in Mark
+      Logic or other application software that makes use of information
+      contained in this document. Any reproduction or modification of all
+      or part of the information contained in this document is governed by
+      and must be accompanied by the attached license and copyright
+      notices.
+    </copyright>
+    <sources>
+      <source>
+	<date>January 3, 2003</date>
+	<version>5</version>
+	<authors>
+	  <author>Kevin Atkinson</author>
+	</authors>
+	<copyright>
+	  Copyright 2000-2004 by Kevin Atkinson
+	  Permission to use, copy, modify, distribute and sell these word
+	  lists, the associated scripts, the output created from the scripts,
+	  and its documentation for any purpose is hereby granted without fee,
+	  provided that the above copyright notice appears in all copies and
+	  that both that copyright notice and this permission notice appear in
+	  supporting documentation. Kevin Atkinson makes no representations
+	  about the suitability of this array for any purpose. It is provided
+	  "as is" without express or implied warranty.
+	</copyright>
+	<sources>
+	  <source>
+	    <package-name>12 Dicts</package-name>
+	    <author>Alan Beale</author>
+	    <copyright>public domain</copyright>
+	  </source>
+	  <source>
+	    <package-name>Moby (TM) Words II (MWords)</package-name>
+	    <author>Grady Ward</author>
+	    <copyright>public domain</copyright>
+	  </source>
+	  <source>
+	    <package-name>UK English Wordlist with Frequency Classification -
+	      frequency class 1-16</package-name>
+	    <author>Brian Kelk</author>
+	    <copyright>public domain</copyright>
+	  </source>
+	  <source>
+	    <package-name>WordNet Database</package-name>
+	    <author>Princeton University</author>
+	    <copyright>
+	      This software and database is being provided to you, the LICENSEE,
+	      by Princeton University under the following license. By obtaining,
+	      using and/or copying this software and database, you agree that you
+	      have read, understood, and will comply with these terms and
+	      conditions.:
+	      Permission to use, copy, modify and distribute this software and
+	      database and its documentation for any purpose and without fee or
+	      royalty is hereby granted, provided that you agree to comply with
+	      the following copyright notice and statements, including the
+	      disclaimer, and that the same appear on ALL copies of the software,
+	      database and documentation, including modifications that you make
+	      for internal use or for distribution.
+	      WordNet 1.6 Copyright 1997 by Princeton University. All rights
+	      reserved.
+	      THIS SOFTWARE AND DATABASE IS PROVIDED "AS IS" AND PRINCETON
+	      UNIVERSITY MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR
+	      IMPLIED. BY WAY OF EXAMPLE, BUT NOT LIMITATION, PRINCETON
+	      UNIVERSITY MAKES NO REPRESENTATIONS OR WARRANTIES OF MERCHANT-
+	      ABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THAT THE USE OF THE
+	      LICENSED SOFTWARE, DATABASE OR DOCUMENTATION WILL NOT INFRINGE ANY
+	      THIRD PARTY PATENTS, COPYRIGHTS, TRADEMARKS OR OTHER RIGHTS.
+	      The name of Princeton University or Princeton may not be used in
+	      advertising or publicity pertaining to distribution of the software
+	      and/or database. Title to copyright in this software, database and
+	      any associated documentation shall at all times remain with
+	      Princeton University and LICENSEE agrees to preserve same.
+	    </copyright>
+	  </source>
+	</sources>
+      </source>
+    </sources>
+  </metadata>
+  <word/>
+  <word>afterward</word>
