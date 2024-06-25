@@ -1,1 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns="http://marklogic.com/xdmp/spell">
+  <metadata>
+    <package-name>Dutch spelling dictionary for use with MarkLogic Server</package-name>
+    <date>2012-07-09</date>
+    <version>0.60</version>
+    <authors>
+      <author>Greg Murray</author>
+    </authors>
+    <description>
+      This dictionary is based on the GNU Aspell Dutch Word List Package by
+      Kevin Atkinson, based on a word list by multiple authors. See "sources"
+      below for details. Greg Murray added XML tags to the word list to conform
+      to the MarkLogic schema for spelling dictionaries.
+    </description>
+    <copyright>
+      This document carries the same license and restrictions as the sources on
+      which it is based. See "sources" below for details. Any reproduction or
+      modification of all or part of the information contained in this document
+      is governed by and must be accompanied by the attached license and
+      copyright notices. Greg Murray makes no representations about the
+      suitability of this document for any purpose. It is provided "as is"
+      without express or implied warranty.
+    </copyright>
+    <sources>
+      <source>
+        <package-name>GNU Aspell Dutch Word List Package</package-name>
+        <date>2002-07-28</date>
+        <version>0.50-2</version>
+        <authors>
+          <author>Kevin Atkinson</author>
+        </authors>
+        <copyright>
+          GNU GENERAL PUBLIC LICENSE Version 2, June 1991
+          
+          Copyright 2000-2004 by Kevin Atkinson
+          
+          Permission to use, copy, modify, distribute and sell these word
+          lists, the associated scripts, the output created from the scripts,
+          and its documentation for any purpose is hereby granted without fee,
+          provided that the above copyright notice appears in all copies and
+          that both that copyright notice and this permission notice appear in
+          supporting documentation. Kevin Atkinson makes no representations
+          about the suitability of this array for any purpose. It is provided
+          "as is" without express or implied warranty.
+        </copyright>
+        <sources>
+          <source>
+            <package-name>Dutch word list</package-name>
+            <version>0.2</version>
+            <authors>
+              <author>Dirk Vermeir</author>
+              <author>Nederlandstalige TeX Gebruikersgroep</author>
+              <author>Piet Tutelaers</author>
+            </authors>
+            <copyright>
+              Copyright (C) 1996: Dutch word lists (woorden) and Dutch hyphenation
+              patterns (patronen) Nederlandstalige TeX Gebruikersgroep, Postbus 394,
+              1740 AJ Schagen, The Netherlands.
+              
+              All provided material can be used freely.
+            </copyright>
+          </source>
+        </sources>
+      </source>
+    </sources>
+  </metadata>
+  <word/>
+  <word>aai</word>
+  <word>ai</word>
+  <word>au</word>
+  <word>eau</word>
+  <word>ei</word>
+  <word>ia</word>
+  <word>ie</word>
+  <word>oei</word>
+  <word>ooi</word>
+  <word>ui</word>
+  <word>eb</word>
+  <word>ebbe</word>
+  <word>abaci</word>
+  <word>abc</word>
+  <word>abcboek</word>
+  <word>abcboeken</word>
+  <word>Abcoude</word>
+  <word>abacus</word>
+  <word>abces</word>
+  <word>abcessen</word>
+  <word>abactis</word>
+  <word>abactissen</word>
+  <word>aubade</word>
+  <word>ebde</word>
+  <word>abdiceer</word>
+  <word>obduceer</word>
+  <word>abdiceerde</word>
+  <word>obduceerde</word>
+  <word>abdiceerden</word>
+  <word>obduceerden</word>
+  <word>abdiceren</word>
+  <word>obduceren</word>
+  <word>abdiceert</word>
