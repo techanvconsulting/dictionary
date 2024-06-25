@@ -9,3 +9,13 @@
     </authors>
     <description>
       This dictionary is based on the GNU Aspell 0.60 German (Deutsches)
+      Dictionary Package by Kevin Atkinson, based on a word list by Björn Jacke.
+      See "sources" below for details. Greg Murray added XML tags to the word
+      list to conform to the MarkLogic schema for spelling dictionaries.
+    </description>
+    <copyright>
+      This document carries the same license and restrictions as the sources on
+      which it is based. See "sources" below for details. Any reproduction or
+      modification of all or part of the information contained in this document
+      is governed by and must be accompanied by the attached license and
+      copyright notices. Greg Murray makes no representations about the
