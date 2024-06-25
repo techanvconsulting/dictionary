@@ -19,3 +19,13 @@
       modification of all or part of the information contained in this document
       is governed by and must be accompanied by the attached license and
       copyright notices. Greg Murray makes no representations about the
+      suitability of this document for any purpose. It is provided "as is"
+      without express or implied warranty.
+    </copyright>
+    <sources>
+      <source>
+        <package-name>GNU Aspell 0.60 German (Deutsches) Dictionary Package</package-name>
+        <date>2004-11-03</date>
+        <version>0.60</version>
+        <authors>
+          <author>Kevin Atkinson</author>
