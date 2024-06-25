@@ -1,1 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<dictionary xmlns="http://marklogic.com/xdmp/spell">
+  <metadata>
+    <package-name>German spelling dictionary for use with MarkLogic Server</package-name>
+    <date>2012-06-27</date>
+    <version>0.60</version>
+    <authors>
+      <author>Greg Murray</author>
+    </authors>
+    <description>
+      This dictionary is based on the GNU Aspell 0.60 German (Deutsches)
